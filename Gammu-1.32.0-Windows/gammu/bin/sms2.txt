@@ -1,0 +1,264 @@
+Location 100001, folder "Inbox", phone memory, Inbox folder
+Location 100004, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 12:32:49 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+User Data Header     : Concatenated (linked) message, ID (8 bit) 164, 2 parts
+
+Cuckieifidkdkkdkdldlofodododofododoofodkfkddlxkfhvbjjgfhgiygjjhghkjgjyghkiiuhgujhgghhhhhjkdkdiifhjghyyhtuufyijguuuuuyghuhhhuuhhfhyoxxoxoxoxjhtuugyyyyyfyugixifxucucocovo oui i 
+
+Location 100002, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 19/11/2012 23:39:20 +0100 (lun.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+test 2
+
+Location 100003, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 19/11/2012 23:32:01 +0100 (lun.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+Test
+
+Location 100005, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 12:39:37 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+Test
+
+Location 100006, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 12:39:45 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+yegfgburrifiggiccicovpvo obocgoifgifigifffjxigi
+
+Location 100007, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 12:39:52 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+vicifuigcysgovydlckxyLvixuvkwukxjxkgihkxi
+
+Location 100008, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 12:39:58 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+vigoureuse mexico ixjclvnwjxkvmvo
+
+Location 100009, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 12:41:49 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+Devoir
+
+Location 100010, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 12:41:52 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+budget
+
+Location 100011, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 12:41:55 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+charge
+
+Location 100012, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 12:41:59 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+circulatoires
+
+Location 100013, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 19:27:03 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+D'audience
+
+Location 100014, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 19:27:06 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+v‚rifier
+
+Location 100015, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 19:27:09 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+jamais
+
+Location 100016, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 19:27:13 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+conseils
+
+Location 100017, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 19:27:16 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+connais
+
+Location 100018, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 19:27:18 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+subsides
+
+Location 100019, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 19:27:21 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+versions
+
+Location 100020, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 19:27:23 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+boissons
+
+Location 100021, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 19:27:27 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+indienss
+
+Location 100022, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 19:27:30 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+individuel
+
+Location 100023, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 19:27:32 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+subsides
+
+Location 100024, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 19:27:35 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+laisser
+
+Location 100025, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 19:27:38 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+Kinshasa
+
+Location 100026, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33660003000"
+Sent                 : 24/11/2012 19:27:40 +0100 (sam.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33664831456"
+Status               : Read
+
+viens
+
+Location 100027, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003830"
+Sent                 : 25/11/2012 17:24:10 +0100 (dim.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33626288843"
+Status               : Read
+
+0;01/01/1970;Rebus;Vincent;2012-11-15;2;cfg  Respiratoire  ;hhs;N/A;N/A;bdhd;Hxh;91123;;r;4;hdhhd;;Uuw Dd;0605555846;0605555846;android; ; ;
+
+
+27 SMS parts in 26 SMS sequences

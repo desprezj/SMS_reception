@@ -1,0 +1,294 @@
+Location 100001, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003740"
+Sent                 : 26/11/2012 18:32:07 +0100 (lun.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33626288843"
+Status               : Read
+
+2;01/01/1970;Rebus;Vincent;2012-11-15;2;cfg  Respiratoire  ;hhs;N/A;N/A;bdhd;Hxh;91123;;r;4;hdhhd;commentaire;Prenom Nom;0626288843;0626288843;android; ; ;
+
+Location 100002, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003670"
+Sent                 : 27/11/2012 10:51:28 +0100 (mar.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33626288843"
+Status               : Read
+
+0;01/01/1970;Rebus;Vincent;2012-11-15;2;cfg  Respiratoire  ;hhs;N/A;N/A;bdhd;Hxh;91123;;r;4;hdhhd;comments;Prenom Nom;0626288843;0626288843;android; ; ;
+
+Location 100003, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003680"
+Sent                 : 03/12/2012 10:47:18 +0100 (lun.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33634310455"
+Status               : Read
+
+1;test;test
+
+Location 100004, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003660"
+Sent                 : 03/12/2012 10:51:39 +0100 (lun.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33634310455"
+Status               : Read
+
+1;test;test;test;test;test;test;test;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;
+
+Location 100005, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003840"
+Sent                 : 03/12/2012 10:55:10 +0100 (lun.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33634310455"
+Status               : Read
+
+1;test;test;test;test;test;test;test;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;
+
+Location 100006, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003670"
+Sent                 : 03/12/2012 11:06:06 +0100 (lun.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33634310455"
+Status               : Read
+
+1;test;test;test;test;test;test;test;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;
+
+Location 100007, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003750"
+Sent                 : 03/12/2012 11:14:30 +0100 (lun.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33634310455"
+Status               : Read
+
+1; julien;test; alla;
+
+Location 100008, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003740"
+Sent                 : 03/12/2012 11:15:57 +0100 (lun.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33634310455"
+Status               : Read
+
+1; julien;test; alla;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;
+
+Location 100009, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003730"
+Sent                 : 03/12/2012 11:26:39 +0100 (lun.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33634310455"
+Status               : Read
+
+Date;1;d‚sirez;julien;050590;m;00000;45;bis;rue;cr‚neaux;sceaux;92330;bat;floor;code;com;comfinal;moi;0143508693;0643508693;marktel;50;50;
+
+Location 100010, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003730"
+Sent                 : 03/12/2012 11:34:27 +0100 (lun.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33634310455"
+Status               : Read
+
+1;date;desirez;julien;050590;m;00000;45;bis;rue;creneaux;sceaux;92330;bat;floor;code;com;comfinal;moi;0143508693;0643508693;marktel;50;50;
+
+Location 100011, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003660"
+Sent                 : 03/12/2012 11:42:30 +0100 (lun.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33634310455"
+Status               : Read
+
+1;date;desirez;julien;050590;m;000000;45;bis;rue;creneaux;sceaux;92330;bat;floor;code;com;comfinal;moi;0143508693;0643508693;marktel;50;50;
+
+Location 100012, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003680"
+Sent                 : 03/12/2012 14:30:25 +0100 (lun.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33634310455"
+Status               : Read
+
+1;date;desirez;julien;050590;m;00000;45;bis;rue;creneaux;sceaux;92330;bat;floor;code;com;comfinal;moi;0143508693;0643508693;marktel;50;50;
+
+Location 100013, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003720"
+Sent                 : 03/12/2012 14:31:09 +0100 (lun.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33634310455"
+Status               : Read
+
+1;date;desirez;julien;050590;m;000000;45;bis;rue;creneaux;sceaux;92330;bat;floor;code;com;comfinal;moi;0143508693;0643508693;marktel;50;50;
+
+Location 100014, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003740"
+Sent                 : 03/12/2012 14:31:57 +0100 (lun.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33634310455"
+Status               : Read
+
+0;date;desirez;julien;050590;m;000000;45;bis;rue;creneaux;sceaux;92330;bat;floor;code;com;comfinal;moi;0143508693;0643508693;marktel;50;50;
+
+Location 100015, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003670"
+Sent                 : 05/12/2012 08:51:48 +0100 (mer.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33634310455"
+Status               : Read
+
+0;date;desirez;julien;050590;0;000000;45;bis;rue;creneaux;sceaux;92330;bat;floor;code;com;comfinal;moi;0143508693;0643508693;marktel;50;50;
+
+Location 100016, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003830"
+Sent                 : 05/12/2012 11:08:36 +0100 (mer.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33634310455"
+Status               : Read
+
+3;3;date;desirez;julien;050590;0;000000;45;bis;rue;creneaux;sceaux;92330;bat;floor;code;com;comfinal;moi;0143508693;0643508693;marktel;50;50;
+
+Location 100017, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003830"
+Sent                 : 05/12/2012 11:10:49 +0100 (mer.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33634310455"
+Status               : Read
+
+3;0;0;date;desirez;julien;050590;0;000000;45;bis;rue;creneaux;sceaux;92330;bat;floor;code;com;comfinal;moi;0143508693;0643508693;marktel;50;50;
+
+Location 100018, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003750"
+Sent                 : 05/12/2012 11:13:10 +0100 (mer.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33634310455"
+Status               : Read
+
+1;2;date;desirez;julien;050590;0;000000;45;bis;rue;creneaux;sceaux;92330;bat;floor;code;com;comfinal;moi;0143508693;0643508693;marktel;50;50;
+
+Location 100019, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003680"
+Sent                 : 05/12/2012 11:40:47 +0100 (mer.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33634310455"
+Status               : Read
+
+0;2;date;desirez;julien;050590;0;000000;45;bis;rue;creneaux;sceaux;92330;bat;floor;code;com;comfinal;moi;0143508693;0643508693;marktel;50;50;
+
+Location 100020, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003710"
+Sent                 : 05/12/2012 11:41:16 +0100 (mer.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33634310455"
+Status               : Read
+
+2;9;date;desirez;julien;050590;0;000000;45;bis;rue;creneaux;sceaux;92330;bat;floor;code;com;comfinal;moi;0143508693;0643508693;marktel;50;50;
+
+Location 100021, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003750"
+Sent                 : 05/12/2012 11:43:42 +0100 (mer.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33634310455"
+Status               : Read
+
+2;9;date;desirez;julien;050590;0;111111;45;bis;rue;creneaux;sceaux;92330;bat;floor;code;com;comfinal;moi;0143508693;0643508693;marktel;50;50;
+
+Location 100022, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003730"
+Sent                 : 05/12/2012 11:56:17 +0100 (mer.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33634310455"
+Status               : Read
+
+2;9;date;desirez;julien;050590;0;000000;45;bis;rue;creneaux;sceaux;92330;bat;floor;code;com;comfinal;moi;0143508693;0643508693;marktel;50;50;
+
+Location 100023, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33689004000"
+Sent                 : 07/12/2012 17:32:04 +0100 (ven.)
+Class                : 1
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "Orange"
+Status               : UnRead
+
+Cher client, Orange est encore r‚seau mobile Num‚ro 1! (source: ARCEP - Nov 2012). Vous etes 27 millions … nous faire confiance. Merci … vous
+
+
+Location 100024, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003740"
+Sent                 : 09/12/2012 15:11:35 +0100 (dim.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33603490896"
+Status               : UnRead
+
+0;8;Sun Dec 09 15:11:57 HNEC 2012;SSD;Yo;2012-12-09;0;011000;123;;egg;thks;Chu;12345;;;;;8 - ;Yukon Zer;0789654321;0789654321;android; ; ;
+
+Location 100025, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003750"
+Sent                 : 09/12/2012 15:12:15 +0100 (dim.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33603490896"
+Status               : UnRead
+
+3;0;1;Sun Dec 09 15:12:36 HNEC 2012;SSD;Yo;2012-12-09;0;011000;123;;egg;thks;Chu;12345;;;;;0 - ;Yukon Zer;0789654321;0789654321;android; ; ;
+
+Location 100026, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003660"
+Sent                 : 09/12/2012 16:17:49 +0100 (dim.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33603490896"
+Status               : UnRead
+
+0;4;Sun Dec 09 16:18:09 HNEC 2012;Bartak;Yonathan;2011-11-08;0;010010;7;;rue;Bernard;Sceaux;92200;;;;;4 - ;Thomas Lavaud;0612345789;0612345789;android; ; ;
+
+Location 100027, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003630"
+Sent                 : 09/12/2012 16:18:03 +0100 (dim.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33603490896"
+Status               : UnRead
+
+1;5;Sun Dec 09 16:18:23 HNEC 2012;Bartak;Yonathan;2011-11-08;0;010010;7;;rue;Bernard;Sceaux;92200;;;;;5 - ;Thomas Lavaud;0612345789;0612345789;android; ; ;
+
+Location 100028, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003640"
+Sent                 : 09/12/2012 16:18:11 +0100 (dim.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33603490896"
+Status               : UnRead
+
+3;1;1;Sun Dec 09 16:18:31 HNEC 2012;Bartak;Yonathan;2011-11-08;0;010010;7;;rue;Bernard;Sceaux;92200;;;;;0 - ;Thomas Lavaud;0612345789;0612345789;android; ; ;
+
+Location 100029, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609003670"
+Sent                 : 09/12/2012 16:18:08 +0100 (dim.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33603490896"
+Status               : UnRead
+
+2;1;Sun Dec 09 16:18:28 HNEC 2012;Bartak;Yonathan;2011-11-08;0;010010;7;;rue;Bernard;Sceaux;92200;;;;;1 - ;Thomas Lavaud;0612345789;0612345789;android; ; ;
+
+
+29 SMS parts in 29 SMS sequences

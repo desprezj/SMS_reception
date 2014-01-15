@@ -1,0 +1,2 @@
+7
+C:\SAS\Gammu-1.32.0-Windows\dll

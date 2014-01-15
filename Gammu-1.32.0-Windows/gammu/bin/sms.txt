@@ -1,0 +1,26 @@
+Location 100001, folder "Inbox", phone memory, Inbox folder
+Location 100002, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609001390"
+Sent                 : 20/12/2012 21:42:45 +0100 (jeu.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33603490896"
+Status               : Read
+User Data Header     : Concatenated (linked) message, ID (8 bit) 72, 2 parts
+
+1;1;Thu Dec 20 21:42:38 HNEC 2012;Bartak;Yon;2009-09-23;0;010000;123;bis;rue;NomRue;NomVille;90000;;;;;azertyuioqsdfghjklwxcvbnmghvccvvbdswbkigdehvckbvdvgkgegjj;ContP ContN;0612345789;0612345789;Android anglais; ; ;
+
+Location 100003, folder "Inbox", phone memory, Inbox folder
+Location 100004, folder "Inbox", phone memory, Inbox folder
+SMS message
+SMSC number          : "+33609001390"
+Sent                 : 20/12/2012 21:42:51 +0100 (jeu.)
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+33603490896"
+Status               : Read
+User Data Header     : Concatenated (linked) message, ID (8 bit) 73, 2 parts
+
+1;0;Thu Dec 20 21:42:44 HNEC 2012;Bartak;Yon;2009-09-23;0;010000;123;bis;rue;NomRue;NomVille;90000;;;;;azertyuioqsdfghjklwxcvbnmghvccvvbdswbkigdehvckbvdvgkgegjj;ContP ContN;0612345789;0612345789;Android anglais; ; ;
+
+
+4 SMS parts in 2 SMS sequences
